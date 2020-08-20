@@ -1,2 +1,0 @@
-# rjs-beginn
-Begin app
